@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Android development and flutter as well.
 - 🌱 I’m currently learning Dart.
-- 👯 I’m looking to collaborate on YouTUbe.
+- 👯 I’m looking to collaborate on YouTube.
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn - @bhavik-sojitra](https://www.linkedin.com/in/bhavik-sojitra)
