@@ -3,7 +3,7 @@
 ### Hello, 👋 I'm Bhavik Sojitra!
 
 - 🔭 I’m currently working on Android development and flutter as well.
-- 🌱 I’m currently learning Data **Structurea and Algorithms.**
+- 🌱 I’m currently learning **Data Structurea and Algorithms.**
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 🤔 I’m looking for help to start with some new projects.
 - 💬 Ask me about any tech related stuff.
