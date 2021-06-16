@@ -9,7 +9,6 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavik-sojitra)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm looking very serious in my profile picture!😁 
 
 ## 📊 My GitHub Stats:
 
