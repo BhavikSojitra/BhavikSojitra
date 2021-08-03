@@ -10,7 +10,6 @@ A passionate Software developer.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavik-sojitra)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact:)
 
 ## 📊 My GitHub Stats:
 
@@ -19,7 +18,7 @@ A passionate Software developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
