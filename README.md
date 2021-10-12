@@ -44,6 +44,7 @@ A passionate Software developer.
 ## 👨‍💻 Coding Profiles:
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/bhaviksojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/bhaviksojitra" height="30" width="40" /></a>
 <a href="https://leetcode.com/BhavikSojitra/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_new_logo_light.0f4d45e9c.svg" alt="https://leetcode.com/BhavikSojitra/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bhaviksojitra/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/116px-GeeksforGeeks.svg.png" alt="" height="30" width="40" /></a>
 
 ## 🔗 Connect with me:
 <p align="left">
