@@ -3,6 +3,8 @@
 ## Hello, 👋 I'm Bhavik Sojitra!
 A passionate Software developer.
 
+<img width="50%" align="right" alt="Image" src= "" />
+
 - 🔭 I’m currently working on Android development and flutter as well.
 - 🌱 I’m currently learning **Data Structurea and Algorithms.**
 - 👯 I’m looking to collaborate on OpenSource Projects.
