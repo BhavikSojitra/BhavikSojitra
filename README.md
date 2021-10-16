@@ -1,4 +1,4 @@
-<img width="38%" align="right" alt="Image" src= "https://raw.githubusercontent.com/BhavikSojitra/BhavikSojitra/e9a8c5067d0ec88ef51423402ab12de62bea5fcc/Image.svg" />
+<img width="37%" align="right" alt="Image" src= "https://raw.githubusercontent.com/BhavikSojitra/BhavikSojitra/e9a8c5067d0ec88ef51423402ab12de62bea5fcc/Image.svg" />
 
 ## Hello, 👋 I'm Bhavik Sojitra!
 A passionate Software developer.
