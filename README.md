@@ -1,9 +1,9 @@
-
+<img width="35%" align="right" alt="Image" src= "https://raw.githubusercontent.com/BhavikSojitra/BhavikSojitra/71fe93783a9bc5548ae62428a5921f99ee0179aa/Image.svg" />
 
 ## Hello, 👋 I'm Bhavik Sojitra!
 A passionate Software developer.
 
-<img width="50%" align="right" alt="Image" src= "" />
+
 
 - 🔭 I’m currently working on Android development and flutter as well.
 - 🌱 I’m currently learning **Data Structurea and Algorithms.**
