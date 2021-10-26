@@ -13,7 +13,7 @@ A passionate Software developer.
 
 ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/bar-chart--v2.gif" />My GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhavikSojitra&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikSojitra&theme=tokyonight_duo"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=BhavikSojitra&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikSojitra&theme=algolia"/>|
 |---|---|
 
 ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/ios/2x/home-office--v2.gif" />Languages and Tools:
