@@ -3,8 +3,6 @@
 ## Hello, 👋 I'm Bhavik Sojitra!
 A passionate Software developer.
 
-
-
 - 🔭 I’m currently working on Android development and flutter as well.
 - 🌱 I’m currently learning **Data Structurea and Algorithms.**
 - 👯 I’m looking to collaborate on OpenSource Projects.
@@ -13,12 +11,12 @@ A passionate Software developer.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavik-sojitra)
 - 😄 Pronouns: He/His
 
-## 📊 My GitHub Stats:
+## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/bar-chart--v2.gif" />My GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=BhavikSojitra&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikSojitra&theme=tokyonight_duo"/>|
 |---|---|
 
-## 💻 Languages and Tools:
+## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/ios/2x/home-office--v2.gif" />Languages and Tools:
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://material.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/768px-Google_Material_Design_Logo.svg.png" alt="material.io" width="40" height="40"/> </a> 
@@ -41,12 +39,12 @@ A passionate Software developer.
   <a href="https://material-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-## 👨‍💻 Coding Profiles:
+## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/ios/2x/developer--v2.gif" />Coding Profiles:
 <a href="https://leetcode.com/BhavikSojitra/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_new_logo_light.0f4d45e9c.svg" alt="https://leetcode.com/BhavikSojitra/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/BhavikSojitra" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="https://www.hackerrank.com/bhaviksojitra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bhaviksojitra/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/116px-GeeksforGeeks.svg.png" alt="https://auth.geeksforgeeks.org/user/bhaviksojitra/profile" height="30" width="40" /></a>
 
-## 🔗 Connect with me:
+## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/omnichannel--v2.gif" />Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="30" width="40" /></a>
 </p>
