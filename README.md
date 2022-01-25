@@ -47,5 +47,5 @@ A passionate Software developer.
 ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/omnichannel--v2.gif" />Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="30" width="40" /></a>
-  <a href="bhaviksojitra01@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059989.png?token=exp=1643096150~hmac=34c6bae94ae5ccedfbebcb170b02ed3c" alt="Mail:bhaviksojitra01@gmail.com" height="40" width="40" /></a>
+  <a href="mailto:bhaviksojitra01@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059989.png?token=exp=1643096150~hmac=34c6bae94ae5ccedfbebcb170b02ed3c" alt="Mail:bhaviksojitra01@gmail.com" height="40" width="40" /></a>
 </p>
