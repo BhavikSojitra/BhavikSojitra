@@ -1,6 +1,6 @@
 <img width="37%" align="right" alt="Image" src= "https://raw.githubusercontent.com/BhavikSojitra/BhavikSojitra/e9a8c5067d0ec88ef51423402ab12de62bea5fcc/Image.svg" />
 
-## Hello, 👋 I'm Bhavik Sojitra!
+## Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Bhavik Sojitra!
 A passionate Software developer.
 
 - 🔭 I’m currently working on Android development and flutter as well.
