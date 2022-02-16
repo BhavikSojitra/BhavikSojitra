@@ -37,6 +37,8 @@ A passionate Software developer.
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://redux.js.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://material-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
 ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/ios/2x/developer--v2.gif" />Coding Profiles:
