@@ -1,15 +1,24 @@
 <img width="37%" align="right" alt="Image" src= "https://raw.githubusercontent.com/BhavikSojitra/BhavikSojitra/e9a8c5067d0ec88ef51423402ab12de62bea5fcc/Image.svg" />
+<!-- <img width="37%" align="right" alt="Image" src= "https://user-images.githubusercontent.com/75220689/154409797-8ae16ded-6e8f-4b01-9995-a8cc8dfd0587.png" /> -->
 
-## Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Bhavik Sojitra!
-A passionate Software developer.
+## Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Bhavik Sojitra(He/His)!
+A passionate Software Developer.
 
 - 🔭 I’m currently working on Android development and flutter as well.
 - 🌱 I’m currently learning **Data Structurea and Algorithms.**
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 🤔 I’m looking for help to start with some new projects.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavik-sojitra)
-- 😄 Pronouns: He/His
+<!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavik-sojitra)
+- 😄 Pronouns: He/His -->
+
+## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/omnichannel--v2.gif" />Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="30" width="40" /></a>
+  <a href="mailto:bhaviksojitra01@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059989.png?token=exp=1643096150~hmac=34c6bae94ae5ccedfbebcb170b02ed3c" alt="Mail:bhaviksojitra01@gmail.com" height="40" width="40" /></a>
+  <a href="https://bhavik-sojitra.web.app/contact.html" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154408786-9e385d6a-87b5-43ab-8dff-5a2463f12590.png" alt="Message" height="40" width="40" /></a>
+  <a href="https://bhaviksojitra.bio.link/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154409333-7903a1c3-5803-4076-8921-e23895f9532b.png" alt="Message" height="40" width="40" /></a>
+</p>
 
 ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/bar-chart--v2.gif" />My GitHub Stats:
 
@@ -39,17 +48,4 @@ A passionate Software developer.
   <a href="https://material-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
-
-<!-- ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/ios/2x/developer--v2.gif" />Coding Profiles:
-<a href="https://leetcode.com/BhavikSojitra/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_new_logo_light.0f4d45e9c.svg" alt="https://leetcode.com/BhavikSojitra/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/BhavikSojitra" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="https://www.hackerrank.com/bhaviksojitra" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhaviksojitra/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/116px-GeeksforGeeks.svg.png" alt="https://auth.geeksforgeeks.org/user/bhaviksojitra/profile" height="30" width="40" /></a> -->
-
-## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/omnichannel--v2.gif" />Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="30" width="40" /></a>
-  <a href="mailto:bhaviksojitra01@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059989.png?token=exp=1643096150~hmac=34c6bae94ae5ccedfbebcb170b02ed3c" alt="Mail:bhaviksojitra01@gmail.com" height="40" width="40" /></a>
-  <a href="https://bhavik-sojitra.web.app/contact.html" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154408786-9e385d6a-87b5-43ab-8dff-5a2463f12590.png" alt="Message" height="40" width="40" /></a>
-  <a href="https://bhaviksojitra.bio.link/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154409333-7903a1c3-5803-4076-8921-e23895f9532b.png" alt="Message" height="40" width="40" /></a>
 </p>
