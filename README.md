@@ -1,16 +1,14 @@
-<img width="37%" align="right" alt="Image" src= "https://raw.githubusercontent.com/BhavikSojitra/BhavikSojitra/e9a8c5067d0ec88ef51423402ab12de62bea5fcc/Image.svg" />
-<!-- <img width="37%" align="right" alt="Image" src= "https://user-images.githubusercontent.com/75220689/154409797-8ae16ded-6e8f-4b01-9995-a8cc8dfd0587.png" /> -->
+<img width="46%" align="right" alt="Image" src= "https://user-images.githubusercontent.com/75220689/154412092-3327ce3d-1806-420b-98ef-b3f1e1a38dc4.svg" />
 
 ## Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Bhavik Sojitra(He/His)!
 A passionate Software Developer.
+
 
 - 🔭 I’m currently working on Android development and flutter as well.
 - 🌱 I’m currently learning **Data Structurea and Algorithms.**
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 🤔 I’m looking for help to start with some new projects.
 - 💬 Ask me about any tech related stuff.
-<!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bhavik-sojitra)
-- 😄 Pronouns: He/His -->
 
 ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/omnichannel--v2.gif" />Connect with me:
 <p align="left">
