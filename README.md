@@ -1,6 +1,6 @@
 <img width="50%" align="right" alt="Image" src= "https://user-images.githubusercontent.com/75220689/154412092-3327ce3d-1806-420b-98ef-b3f1e1a38dc4.svg" />
 
-## Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Bhavik Sojitra(He/His)!
+## Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="2%">, I'm Bhavik Sojitra(He/His)!
 A Software Developer.
 
 - 🔭 I’m currently working on Full Stack Development.
