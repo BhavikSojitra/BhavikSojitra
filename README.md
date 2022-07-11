@@ -11,10 +11,10 @@ A Software Developer.
 
 ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/omnichannel--v2.gif" />Connect with me:
 <p align="left">
-  <a href="mailto:bhaviksojitra01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154416152-5898f82d-a171-4276-908b-7ec030147cdb.png" alt="Mail:bhaviksojitra01@gmail.com" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154416395-90746ad3-52fd-499e-95ce-98cbda6e4dae.png" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="40" width="40" /></a>
-  <a href="https://bhavik-sojitra.web.app/contact.html" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154408786-9e385d6a-87b5-43ab-8dff-5a2463f12590.png" alt="Message" height="40" width="40" /></a>
-  <a href="https://bhaviksojitra.bio.link/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154409333-7903a1c3-5803-4076-8921-e23895f9532b.png" alt="Message" height="40" width="40" /></a>
+  <a href="mailto:bhaviksojitra01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154416152-5898f82d-a171-4276-908b-7ec030147cdb.png" alt="Mail:bhaviksojitra01@gmail.com" height="40" width="40" /></a> &nbsp; 
+  <a href="https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154416395-90746ad3-52fd-499e-95ce-98cbda6e4dae.png" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="40" width="40" /></a> &nbsp;
+  <a href="https://bhavik-sojitra.web.app/contact.html" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154408786-9e385d6a-87b5-43ab-8dff-5a2463f12590.png" alt="Message" height="40" width="40" /></a> &nbsp;
+  <a href="https://bhaviksojitra.bio.link/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154409333-7903a1c3-5803-4076-8921-e23895f9532b.png" alt="Message" height="40" width="40" /></a> &nbsp;
 </p>
 
 ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/bar-chart--v2.gif" />My GitHub Stats:
