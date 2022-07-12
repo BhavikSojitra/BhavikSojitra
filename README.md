@@ -1,3 +1,4 @@
+<!--
 <img width="50%" align="right" alt="Image" src= "https://user-images.githubusercontent.com/75220689/154412092-3327ce3d-1806-420b-98ef-b3f1e1a38dc4.svg" />
 
 ## Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="2%">, I'm Bhavik Sojitra(He/His)!
@@ -8,20 +9,32 @@ A Software Developer.
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 🤔 I’m looking for help to start with some new projects.
 - 💬 Ask me about any tech related stuff.
+-->
 
-## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/omnichannel--v2.gif" />Connect with me:
-<p align="left">
-  <a href="mailto:bhaviksojitra01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154416152-5898f82d-a171-4276-908b-7ec030147cdb.png" alt="Mail:bhaviksojitra01@gmail.com" height="40" width="40" /></a> &nbsp; 
-  <a href="https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154416395-90746ad3-52fd-499e-95ce-98cbda6e4dae.png" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="40" width="40" /></a> &nbsp;
-  <a href="https://bhavik-sojitra.web.app/contact.html" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154408786-9e385d6a-87b5-43ab-8dff-5a2463f12590.png" alt="Message" height="40" width="40" /></a> &nbsp;
-  <a href="https://bhaviksojitra.bio.link/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154409333-7903a1c3-5803-4076-8921-e23895f9532b.png" alt="Message" height="40" width="40" /></a> &nbsp;
-</p>
 
-## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/color/2x/bar-chart--v2.gif" />My GitHub Stats:
+
+
+## My GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=BhavikSojitra&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikSojitra&theme=algolia"/>|
 |---|---|
 
+
+## Connect with me:
+<p align="left">
+  <a href="mailto:bhaviksojitra01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154416152-5898f82d-a171-4276-908b-7ec030147cdb.png" alt="Mail:bhaviksojitra01@gmail.com" height="40" width="40" /></a> &nbsp; 
+  <a href="https://bhavik-sojitra.web.app/contact.html" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/7698/7698701.png" alt="Message" height="40" width="40" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/bhavik-sojitra/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154416395-90746ad3-52fd-499e-95ce-98cbda6e4dae.png" alt="https://www.linkedin.com/in/bhavik-sojitra/" height="40" width="40" /></a> &nbsp;
+  <a href="https://bhaviksojitra.bio.link/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/7950/7950285.png" alt="Message" height="40" width="40" /></a> &nbsp;
+</p>
+
+
+
+
+
+
+
+<!--
 ## <img width="3%" align="left" alt="Image" src= "https://img.icons8.com/ios/2x/home-office--v2.gif" />Languages and Tools:
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -46,3 +59,4 @@ A Software Developer.
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
+-->
