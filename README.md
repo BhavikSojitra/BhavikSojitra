@@ -1,7 +1,9 @@
 ## My GitHub Stats:
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=bhaviksojitra&show_icons=true&theme=transparent"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikSojitra&theme=algolia"/>|
 |---|---|
+-->
 
 
 ## Connect with me:
