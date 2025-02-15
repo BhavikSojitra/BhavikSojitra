@@ -1,11 +1,3 @@
-## My GitHub Stats:
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=bhaviksojitra&show_icons=true&theme=transparent"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikSojitra&theme=algolia"/>|
-|---|---|
--->
-
-
 ## Connect with me:
 <p align="left">
   <a href="mailto:bhaviksojitra01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/75220689/154416152-5898f82d-a171-4276-908b-7ec030147cdb.png" alt="Mail:bhaviksojitra01@gmail.com" height="40" width="40" /></a> &nbsp; 
@@ -14,7 +6,11 @@
   <a href="https://bhaviksojitra.bio.link/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/7950/7950285.png" alt="Message" height="40" width="40" /></a> &nbsp;
 </p>
 
-
+<!--
+## My GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=bhaviksojitra&show_icons=true&theme=transparent"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavikSojitra&theme=algolia"/>|
+|---|---|
+-->
 
 <!--
 <img width="50%" align="right" alt="Image" src= "https://user-images.githubusercontent.com/75220689/154412092-3327ce3d-1806-420b-98ef-b3f1e1a38dc4.svg" />
